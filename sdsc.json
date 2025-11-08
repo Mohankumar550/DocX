@@ -1,0 +1,75 @@
+ {
+  "index": [
+    {
+      "id": "root",
+      "type": "folder",
+      "title": "Root",
+      "children": [
+        {
+          "id": "page-2",
+          "type": "doc",
+          "title": "Page title",
+          "initial": {
+            "content": "<p>Getting started…</p>"
+          }
+        },
+        {
+          "id": "page-3",
+          "type": "doc",
+          "title": "Work Management Platform",
+          "initial": {
+            "content": "<p>Notes…</p>"
+          }
+        },
+        {
+          "id": "folder-1762532031239",
+          "type": "folder",
+          "title": "test1",
+          "children": [
+            {
+              "id": "demo",
+              "type": "doc",
+              "title": "rAutocode Design Guidelines",
+              "initial": {
+                "content": "<h2>Available Components</h2><table><thead><tr><th>Form Components</th><th>Form Components</th><th>Visual</th><th>Layout</th><th>Navigation</th><th>Progress</th></tr></thead><tbody><tr><td>Textbox</td><td>Input Group / Input Field</td><td>Icon</td><td>Container</td><td>Hyperlink</td><td>Loader</td></tr><tr><td>Textarea</td><td>Datepicker</td><td>Heading</td><td>Row</td><td></td><td></td></tr></tbody></table><p>Write more…</p>"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "docs": {
+    "page-2": {
+      "title": "Page title",
+      "content": "<p data-block-id=\"gZUcaKT1\">Getting started… d ddcsxsaxasxasx</p><table style=\"min-width: 300px;\"><colgroup><col style=\"min-width: 25px;\"><col style=\"min-width: 25px;\"><col style=\"min-width: 25px;\"><col style=\"min-width: 25px;\"><col style=\"min-width: 25px;\"><col style=\"min-width: 25px;\"><col style=\"min-width: 25px;\"><col style=\"min-width: 25px;\"><col style=\"min-width: 25px;\"><col style=\"min-width: 25px;\"><col style=\"min-width: 25px;\"><col style=\"min-width: 25px;\"></colgroup><tbody><tr><th colspan=\"1\" rowspan=\"1\"><p data-block-id=\"-lktTJ-6\"></p></th><th colspan=\"1\" rowspan=\"1\"><p data-block-id=\"QF3VrHby\"></p></th><th colspan=\"1\" rowspan=\"1\"><p data-block-id=\"C6bMG7KJ\"></p></th><th colspan=\"1\" rowspan=\"1\"><p data-block-id=\"WSDkSGxU\"></p></th><th colspan=\"1\" rowspan=\"1\"><p data-block-id=\"Oi68nylC\"></p></th><th colspan=\"1\" rowspan=\"1\"><p data-block-id=\"Vr2xsA-X\"></p></th><th colspan=\"1\" rowspan=\"1\"><p data-block-id=\"s26BoWGc\"></p></th><th colspan=\"1\" rowspan=\"1\"><p data-block-id=\"Z5z1yVAw\"></p></th><th colspan=\"1\" rowspan=\"1\"><p data-block-id=\"ri9C_Dq_\"></p></th><th colspan=\"1\" rowspan=\"1\"><p data-block-id=\"ocByGIYp\"></p></th><th colspan=\"1\" rowspan=\"1\"><p data-block-id=\"iluUi8Ul\"></p></th><th colspan=\"1\" rowspan=\"1\"><p data-block-id=\"zKycPNK2\"></p></th></tr><tr><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"l67rozAl\">scc</p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"j_iaBRTt\">cdscsdcsc</p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"H_lrfeVK\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"SXCv9EfQ\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"KQ_eagdV\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"7s19pmcT\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"aT5ML7xF\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"_8Vls8-J\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"D0YrflWU\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"GhOV528i\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"_dCI9KUD\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"qOBFEqee\"></p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"CsCm48yY\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"CHlgT3Yx\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"kGHcb0_6\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"fdQCBPTQ\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"OL9jiADE\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"jtEe5jrJ\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"j2iKSiLL\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"M5eDSyLC\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"AOH6pdDr\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"9y-BZvQx\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"5LTkLO3w\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"oQ_QK3w8\"></p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"1n76rLm1\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"hd_1-xBd\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"F0ofRpdC\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"6rHbolOo\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"cZEddmPC\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"QtJKEuTa\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"6Op_T5kb\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"XRaatkSA\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"2JW7awKP\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"8GJ5b4la\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"ygV6LCHd\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"D9VKo1Kq\"></p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"4nu0m8Km\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"ZyFx5twb\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"H80LabkK\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"vfXJGO8Z\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"20CB6Oav\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"c5Y3Pg2I\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"EAnVrmZA\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"a8FJ7yAK\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"x-SVesTz\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"9Ki8ZpKS\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"eIN1ZMJK\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"PzuzGUf_\"></p></td></tr></tbody></table>",
+      "updatedAt": "2025-11-07T16:34:40.458Z",
+      "lastEditedBy": "Mohan"
+    },
+    "page-3": {
+      "content": "<p>Notes…</p>",
+      "title": "Work Management Platform"
+    },
+    "demo": {
+      "title": "rAutocode Design Guidelines",
+      "content": "<h2 data-block-id=\"yoEvj6-H\">Available Components</h2><table style=\"min-width: 300px;\"><colgroup><col style=\"min-width: 25px;\"><col style=\"min-width: 25px;\"><col style=\"min-width: 25px;\"><col style=\"min-width: 25px;\"><col style=\"min-width: 25px;\"><col style=\"min-width: 25px;\"><col style=\"min-width: 25px;\"><col style=\"min-width: 25px;\"><col style=\"min-width: 25px;\"><col style=\"min-width: 25px;\"><col style=\"min-width: 25px;\"><col style=\"min-width: 25px;\"></colgroup><tbody><tr><th colspan=\"1\" rowspan=\"1\"><p data-block-id=\"QSevJSC7\">Form Components</p></th><th colspan=\"1\" rowspan=\"1\"><p data-block-id=\"4NpN8QMg\">sccs</p></th><th colspan=\"1\" rowspan=\"1\"><p data-block-id=\"MK6tP0a2\">cscsc</p></th><th colspan=\"1\" rowspan=\"1\"><p data-block-id=\"EbgzxnCy\">csc</p></th><th colspan=\"1\" rowspan=\"1\"><p data-block-id=\"j9PokkE7\"></p></th><th colspan=\"1\" rowspan=\"1\"><p data-block-id=\"ideyIHLO\"></p></th><th colspan=\"1\" rowspan=\"1\"><p data-block-id=\"75ztiPkM\"></p></th><th colspan=\"1\" rowspan=\"1\"><p data-block-id=\"bvwBaNpP\">Form Componescaants</p></th><th colspan=\"1\" rowspan=\"1\"><p data-block-id=\"UUyLwhw2\">Visual</p></th><th colspan=\"1\" rowspan=\"1\"><p data-block-id=\"Famx1Pwt\">Layout</p></th><th colspan=\"1\" rowspan=\"1\"><p data-block-id=\"ofMEV7EW\">Navigation</p></th><th colspan=\"1\" rowspan=\"1\"><p data-block-id=\"aoqpH4pE\">Progress</p></th></tr><tr><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"9zJbC-qt\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"Dlq925we\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"S9o7bU5a\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"LyJrfXCC\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"wGJ8dQN_\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"OXaQdOvb\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"EqZsoErC\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"Bxqv9pVC\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"z6pCOyG9\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"D4xdEaPQ\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"gaNhh7xY\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"e2p0w4kR\"></p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"hJFONE3h\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"dqMzQIbW\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"TaIwluvR\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"jMVhBzBS\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"mHPNXIaO\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"-THEP6Ik\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"AdksAL8a\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"-zjcjCZN\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"T42uNliL\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"gP20JVUn\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"o8LLKhP9\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"oKxNdsgu\"></p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"niGY-Pi_\">Textarea</p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"jx-unE8X\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"9XqaJbh4\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"1SriTp4q\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"nbcIsH-M\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"DSBVrnT-\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"JsBNZbXc\"></p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"yhzLoF5G\">Datepicker</p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"AQVOMqKO\">Heading</p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"9qlk6Aw9\">Row</p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"JC4jpbhT\">sdcs</p></td><td colspan=\"1\" rowspan=\"1\"><p data-block-id=\"LslZ8JM0\"></p></td></tr></tbody></table><p data-block-id=\"d4yAHB3w\">Write more…</p>",
+      "updatedAt": "2025-11-07T16:41:03.539Z",
+      "lastEditedBy": "Mohan"
+    }
+  },
+  
+  "syncMeta": {
+    "lastSync": "2025-11-07T16:48:53.102Z",
+    "dirty": true
+  },
+  "comments": {
+    "page-2": {},
+    "page-3": {},
+    "demo": {}
+  },
+  "history": {
+    "page-2": [],
+    "page-3": [],
+    "demo": []
+  }
+}
